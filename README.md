@@ -1,2 +1,2 @@
 # 4chain
-blockchain messenger 4chan concept
+Blockchain messenger system meant to resemble 4chan. Uses javascript as a base language.
